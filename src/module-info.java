@@ -1,0 +1,2 @@
+module effectivejava_sample {
+}

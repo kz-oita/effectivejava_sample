@@ -1,6 +1,6 @@
 package item23;
 
-abstract class FigureExtendsSample {
+public abstract class FigureExtendsSample {
 
 	 abstract double area();
 }

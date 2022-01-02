@@ -1,4 +1,4 @@
-package item34;
+package item34.sample1;
 
 import java.util.Arrays;
 import java.util.Objects;

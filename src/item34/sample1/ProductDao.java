@@ -1,4 +1,4 @@
-package item34;
+package item34.sample1;
 
 public class ProductDao {
 

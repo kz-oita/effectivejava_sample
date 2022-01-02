@@ -1,7 +1,7 @@
-package item34;
+package item34.sample1;
 
-import item34.Product.ConditionCategory;
-import item34.Product.ConditionRate;
+import item34.sample1.Product.ConditionCategory;
+import item34.sample1.Product.ConditionRate;
 
 public class AddAction {
 

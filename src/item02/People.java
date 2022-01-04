@@ -52,5 +52,6 @@ public class People {
 
 
 	// new People.Builder("Taro", 15).hobby("BasketBall").build();}
+    //https://qiita.com/disc99/items/840cf9936687f97a482b
 
 
